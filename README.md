@@ -52,7 +52,7 @@ Este comando irá criar o nosso projeto chamado **workshop**.
 
 `create-react-app workshop`
 
-Navegue para a pasta do projeto e inicie a aplicação.
+Navegue para a pasta do projeto e inicie a aplicação
 
 `cd workshop && yarn start`
 
@@ -64,7 +64,7 @@ Navegue para a pasta do projeto e inicie a aplicação.
 
 ## Instalação da biblioteca material UI
 
-Instale a biblioteca de materiais do React chamada Material UI. Para isto abra o terminal dentro do VSCode apertando as teclas **Ctrl + Shift +  '**  do seu  ****teclado ou clicando no menu superior em **Terminal,** em seguida **New Terminal**. Copie o código abaixo e cole no terminal aberto e aperte **Enter.**
+Instale a biblioteca de materiais do React chamada Material UI. Para isto abra o terminal dentro do VSCode apertando as teclas **Ctrl + Shift +  '**  do seu ****teclado ou clicando no menu superior em **Terminal,** em seguida **New Terminal**. Copie o código abaixo e cole no terminal aberto e aperte **Enter.**
 
 ```text
 yarn add @material-ui/core
@@ -85,8 +85,6 @@ yarn add react-bootstrap bootstrap
 O React cria os arquivos e pastas que estaremos usando para modificar nosso projeto, e deixá-lo do jeito que nós queremos. Vá até a pasta **public** dentro dela está o nosso index.html. Dentro dele você vai encontrar dentro da tag body a`<div id="root"></div>` que é onde nossas alterações irão aparecer. Não apague essa div, do contrário terá problemas com a renderização do seu app.
 
 Dentro da pasta **src** está o arquivo App.js 
-
-
 
 
 
