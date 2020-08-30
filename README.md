@@ -52,7 +52,7 @@ Este comando irá criar o nosso projeto chamado **workshop**.
 
 `create-react-app workshop`
 
-Navegue para a pasta do projeto e inicie a aplicação
+Navegue para a pasta do projeto e inicie a aplicação.
 
 `cd workshop && yarn start`
 
@@ -64,7 +64,7 @@ Navegue para a pasta do projeto e inicie a aplicação
 
 ## Instalação da biblioteca material UI
 
-Instale a biblioteca de materiais do React chamada Material UI. Para isto abra o terminal dentro do VSCode apertando as teclas **Ctrl + Shift +  '**  do seu ****teclado ou clicando no menu superior em **Terminal,** em seguida **New Terminal**. Copie o código abaixo e cole no terminal aberto e aperte **Enter.**
+Instale a biblioteca de materiais do React chamada Material UI. Para isto abra o terminal dentro do VSCode apertando as teclas **Ctrl + Shift +  '**  do seu  ****teclado ou clicando no menu superior em **Terminal,** em seguida **New Terminal**. Copie o código abaixo e cole no terminal aberto e aperte **Enter.**
 
 ```text
 yarn add @material-ui/core
