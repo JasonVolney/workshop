@@ -48,11 +48,11 @@ Se quiser saber mais sobre o `create-react-app` pode conferir a documentação c
 
 ## Criando o projeto 
 
-Este comando irá criar o nosso projeto chamado **workshop**.
+A ideia é criar uma  aplicação que fará o cadastro de usuários permitindo que eles criem eventos como: eventos, conferências, palestras, simpósios e workshops. Este comando irá criar o nosso projeto chamado **workshop**. Mas, você pode dar o nome que preferir.
 
 `create-react-app workshop`
 
-Navegue para a pasta do projeto e inicie a aplicação.
+Aguarde o final da instalação. Em seguida, navegue para a pasta do projeto e inicie a aplicação.
 
 `cd workshop && yarn start`
 
