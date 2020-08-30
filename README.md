@@ -84,13 +84,39 @@ yarn add react-bootstrap bootstrap
 
 O React cria os arquivos e pastas que estaremos usando para modificar nosso projeto, e deixá-lo do jeito que nós queremos. Vá até a pasta **public** dentro dela está o nosso index.html. Dentro dele você vai encontrar dentro da tag body a`<div id="root"></div>` que é onde nossas alterações irão aparecer. Não apague essa div, do contrário terá problemas com a renderização do seu app.
 
+## [Wireframe](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=workshop.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FJuanVAF%2Fworkshop%2Fmaster%2Fworkshop.drawio) 
+
+Vamos dar uma olhada no wireframe do nosso projeto. [Clique aqui](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=workshop.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FJuanVAF%2Fworkshop%2Fmaster%2Fworkshop.drawio)
+
+![](.gitbook/assets/workshop.png)
+
+## Criando a tela de login
+
 Dentro da pasta **src** está o arquivo App.js 
 
-Pronto!
+## Criando a Home Page
 
-[JSON](https://www.json.org/json-en.html) 
+## Criando formulário para cadastro
 
-[https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/)
+## Consumindo a API
+
+[JSON](https://www.json.org/json-en.html)
+
+
+
+{% embed url="https://jsonplaceholder.typicode.com/" %}
+
+
+
+
+
+Pronto! Projeto Finalizado! 
+
+Parabéns se conseguiu chegar até aqui.
+
+ 
+
+
 
 
 
