@@ -86,19 +86,7 @@ O React cria os arquivos e pastas que estaremos usando para modificar nosso proj
 
 Dentro da pasta **src** está o arquivo App.js 
 
-
-
-
-
-
-
 Pronto!
-
-
-
-
-
-
 
 [JSON](https://www.json.org/json-en.html) 
 
