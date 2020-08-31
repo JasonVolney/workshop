@@ -92,7 +92,11 @@ Vamos dar uma olhada no wireframe do nosso projeto. [Clique aqui](https://viewer
 
 ## Criando a tela de login
 
-Dentro da pasta **src** está o arquivo App.js 
+Dentro da pasta **src** está o arquivo App.js nele é possível incluir os componentes necessários para o nosso projeto. Para começar vamos remover todo o conteúdo deste arquivo deixando apenas a importação do React.
+
+![](.gitbook/assets/tela-1.png)
+
+Fizemos isso para começar a introduzir os componentes e elementos do nosso aplicativo Web. Então, não se preocupe, que logo vamos ter nossa tela de login criada. Abaixo da linha onde estamos importando o React, vamos importar os outros componentes.
 
 ## Criando a Home Page
 
