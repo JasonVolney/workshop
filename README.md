@@ -96,7 +96,7 @@ Dentro da pasta **src** está o arquivo App.js nele é possível incluir os comp
 
 ![](.gitbook/assets/tela-1.png)
 
-Fizemos isso para começar a introduzir os componentes e elementos do nosso aplicativo Web. Então, não se preocupe, que logo vamos ter nossa tela de login criada. Abaixo da linha onde estamos importando o React, vamos importar os outros componentes.
+Fizemos isso para começar a adicionar os componentes e elementos do nosso aplicativo Web. Então, não se preocupe, que logo vamos ter nossa tela de login criada. Abaixo da linha onde estamos importando o React, vamos importar os outros componentes.
 
 ## Criando a Home Page
 
