@@ -100,6 +100,52 @@ Fizemos isso para começar a adicionar os componentes e elementos do nosso aplic
 
 ## Criando a Home Page
 
+Vamos agora criar a nossa homepage. 
+
+A primeira coisa que precisamos fazer é criar os arquivos que são responsáveis por gerar os componentes que estão presentes no nosso wireframe, e que vamos precisar importar da biblioteca Material UI, que são: AppBar, Carousel, Cards, Footer, por exemplo.
+
+Então, vamos criar uma pasta chamada **components** dentro da pasta **src** e outra pasta dentro de **components** com o nome do componente, no caso, **AppBar.** Dentro desta pasta também vamos criar um arquivo chamado **AppBar.js.** Agora abra o site ****[**Material UI**](https://material-ui.com/getting-started/installation/) se ****ainda não instalou, siga os passos para a instalação. Se já tiver instalado então, à esquerda você encontra um menu com várias opções, procure por **Componentes&gt;Surfaces&gt;App Bar**. Escolha um dos tipos de barras de aplicativos existentes.
+
+Veja na figura abaixo:
+
+![](.gitbook/assets/appbar.png)
+
+
+
+Clique no botão **&lt; &gt;** e copie o código inteiro. Cole dentro do nosso arquivo **AppBar.js** que criamos e salve o arquivo. Abra o arquivo **App.js** e importe o componente, no meu caso, o componente se chama **PrimarySearchAppBar**. 
+
+Insira o código abaixo no App.js. 
+
+```text
+import React, { Component } from 'react'; 
+import './App.css';
+import PrimarySearchAppBar from './components/AppBar/AppBar';
+class App extends Component {
+  render() {
+    return (
+      <React.Fragment>
+        <PrimarySearchAppBar/>
+      </React.Fragment>
+    
+    );
+  }
+}
+
+export default App;
+```
+
+então agora é só repetir o processo para os outros componentes inserindo todos dentro do componente React.Fragment.
+
+```text
+<React.Fragment>
+    <PrimarySearchAppBar/>
+    <Outro Componente/>
+    <Outro Componente/>
+</React.Fragment>
+```
+
+Pronto! No final você pode rodar o comando `yarn start` para iniciar o servidor e ver o resultado no seu Browser. 
+
 ## Criando formulário para cadastro
 
 ## Consumindo a API
