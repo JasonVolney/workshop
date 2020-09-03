@@ -105,7 +105,7 @@ Agora, vamos fazer alguns imports das bibliotecas que serão usadas:
 
 
 * [**Axios**](https://github.com/axios/axios): Cliente HTTP usado para enviar requisições à API;
-* [**PropTypes**](https://github.com/facebook/prop-types): Lib para chegagem de tipo das props de componentes React;
+* [**PropTypes**](https://github.com/facebook/prop-types): Lib para checagem de tipo das props de componentes React;
 * [**ReactRouter**](https://reacttraining.com/react-router/web/guides/quick-start):Lib implementação de navegação na aplicação;
 * [**StyledComponents**](https://github.com/styled-components/styled-components): Lib usada estilização dos componentes.
 * **Font Awesome**: Lib de fontes de ícones.
