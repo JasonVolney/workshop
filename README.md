@@ -102,6 +102,42 @@ Agora, vamos fazer alguns imports das bibliotecas que serão usadas:
 
 ![](.gitbook/assets/import.png)
 
+
+
+* [**Axios**](https://github.com/axios/axios): Cliente HTTP usado para enviar requisições à API;
+* [**PropTypes**](https://github.com/facebook/prop-types): Lib para chegagem de tipo das props de componentes React;
+* [**ReactRouter**](https://reacttraining.com/react-router/web/guides/quick-start):Lib implementação de navegação na aplicação;
+* [**StyledComponents**](https://github.com/styled-components/styled-components): Lib usada estilização dos componentes.
+* **Font Awesome**: Lib de fontes de ícones.
+
+Após isso, vamos implementar algumas pastas do projeto, a ramificação ficará assim:
+
+![](.gitbook/assets/image%20%284%29.png)
+
+A configuração inicial no **App.js** ficará desta forma
+
+![](.gitbook/assets/image%20%286%29.png)
+
+E o **index.js** assim:
+
+![](.gitbook/assets/image%20%285%29.png)
+
+Nossos serviços estão implementados no diretório **services,** no arquivo **services/auth.js será tratado a autenticação do usuário:**
+
+![](.gitbook/assets/image%20%283%29.png)
+
+E em **services/api.js** será definida a API de consumo:
+
+![](.gitbook/assets/image%20%282%29.png)
+
+Uma grande parte da estrutura de login foi inspirada em um artigo do blog da **RocketSeat,** que será disponibilizado neste GitBook \(no arquivo global.js, há uma estrutura obsoleta, que será substituída, e é encontrada nos comentários do blog\).
+
+{% embed url="https://blog.rocketseat.com.br/reactjs-autenticacao/" %}
+
+
+
+
+
 ## Criando a Home Page
 
 Vamos agora criar a nossa homepage. 
