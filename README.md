@@ -148,6 +148,16 @@ Pronto! No final você pode rodar o comando `yarn start` para iniciar o servidor
 
 ## Criando formulário para cadastro
 
+Assim como na parte do login, devemos apagar o conteúdo da App.js menos a importação do React, existem varias maneiras de criar o seu formulário de cadastro, mas uma boa forma é usando o Form.Group, Form.Label e entre outros.
+
+![](.gitbook/assets/image%20%281%29.png)
+
+Tenha com o Form você consegue criar o seu formulário de cadastro inteiro, sem muitas dificuldades, além de que você pode estilizar com o CSS, para ficar mais chamativo.
+
+![](.gitbook/assets/image.png)
+
+E também devemos lembrar de criar o botão para o usuário se registrar.
+
 ## Consumindo a API
 
 [JSON](https://www.json.org/json-en.html)
