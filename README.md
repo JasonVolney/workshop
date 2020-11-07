@@ -3,6 +3,7 @@ description: >-
   Neste tutorial vamos ajudá-lo a criar um aplicativo Web utilizando React para
   consumir uma API
 ---
+#Para visualizar o site clique neste link: https://juanvaf.github.io/workshop/
 
 # workshop-react-consuming-api
 
